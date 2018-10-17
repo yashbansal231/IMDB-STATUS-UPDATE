@@ -10,4 +10,3 @@ def send_mail(content,email_id):
     s.quit()
 
 
-send_mail("Chutiye","yashbansal231@gmail.com")
